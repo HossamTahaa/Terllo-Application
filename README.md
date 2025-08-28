@@ -3,16 +3,15 @@
 A simple Trello-like task management app built with Angular and Angular Material.
 This project allows users to create boards, lists, and cards, and manage tasks with an intuitive drag-and-drop interface.
 
-🚀 Features
+ Features
 
-📝 Create, update, and delete boards, lists, and tasks
+Create, update, and delete boards, lists, and tasks
 
-🎨 Modern UI with Angular Material
+ Modern UI with Angular Material
 
-🔄 Drag-and-drop support for task organization
+ Drag-and-drop support for task organization
 
-⚡ Responsive design for desktop & mobile
-
+ Responsive design for desktop & mobile
 💾 Local storage (or API integration if added)
 
 🛠️ Tech Stack
@@ -28,10 +27,7 @@ RxJS
 📦 Installation & Setup
 
 Clone the repo
-
-git clone https://github.com/your-username/trello-clone-angular.git
-cd trello-clone-angular
-
+terllo-application-f761.vercel.app
 
 Install dependencies
 
@@ -42,9 +38,6 @@ Run the development server
 
 ng serve
 
-
-Open http://localhost:4200
- in your browser.
 
 📸 Screenshots
 <img width="1907" height="939" alt="Trello" src="https://github.com/user-attachments/assets/30608e1a-2c5b-4b43-99fb-fc5821568159" />
