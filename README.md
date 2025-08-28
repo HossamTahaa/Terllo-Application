@@ -1,59 +1,57 @@
-# Terllo
+   Trello Clone (Angular + Angular Material)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
+A simple Trello-like task management app built with Angular and Angular Material.
+This project allows users to create boards, lists, and cards, and manage tasks with an intuitive drag-and-drop interface.
 
-## Development server
+🚀 Features
 
-To start a local development server, run:
+📝 Create, update, and delete boards, lists, and tasks
 
-```bash
+🎨 Modern UI with Angular Material
+
+🔄 Drag-and-drop support for task organization
+
+⚡ Responsive design for desktop & mobile
+
+💾 Local storage (or API integration if added)
+
+🛠️ Tech Stack
+
+Angular
+
+Angular Material
+
+TypeScript
+
+RxJS
+
+📦 Installation & Setup
+
+Clone the repo
+
+git clone https://github.com/your-username/trello-clone-angular.git
+cd trello-clone-angular
+
+
+Install dependencies
+
+npm install
+
+
+Run the development server
+
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
+Open http://localhost:4200
+ in your browser.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+📸 Screenshots
+<img width="1907" height="939" alt="Trello" src="https://github.com/user-attachments/assets/30608e1a-2c5b-4b43-99fb-fc5821568159" />
+<img width="1908" height="286" alt="Trello (2)" src="https://github.com/user-attachments/assets/17e94c9a-b76e-40c6-ad94-3bef45a31d0b" />
+<img width="1901" height="332" alt="Trello (3)" src="https://github.com/user-attachments/assets/1678b4af-ac3d-4a3b-a49e-3d7118ff81b1" />
 
-```bash
-ng generate component component-name
-```
+ 
+🤝 Contributing
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Contributions are welcome! Feel free to open issues and pull requests.
